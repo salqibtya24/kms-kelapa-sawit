@@ -1,0 +1,6 @@
+Pengembangan Front End KMS Kelapa Sawit
+1. Membuat Halaman Utama
+2. Membuat form daftar akun
+3. Membuat form masuk
+4. Membuat Dashboard
+5. Menambahkan konten
